@@ -22,6 +22,7 @@ public class Programa implements ActionListener {
 	 JPanel painelSelecao = new JPanel();
 	 JButton botao1 = new JButton("Painel 1");
 	 JButton botao2 = new JButton("Painel 2");
+	 JButton botao3 = new JButton("Painel 3");
 	 
 	 //criamos o painelCard que será gerenciado pelo CardLayout
 	 JPanel painelCard = new JPanel();
